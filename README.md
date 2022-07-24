@@ -1,6 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Blogfer
 
-Done
-Create a Next.js App
-Navigate Between Pages
-Assets, Metadata and CSS
+NextJS version
